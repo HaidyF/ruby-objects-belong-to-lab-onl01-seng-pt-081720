@@ -1,5 +1,5 @@
 class Post
-  def initialize
+  def initialize(title, author)
     @title = title
     @author = author
   end
